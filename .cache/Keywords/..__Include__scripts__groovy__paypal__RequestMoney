@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E114CC2F559DE1A4AA770630337552AD",
+  "keywordClasses": [
+    {
+      "name": "paypal.RequestMoney",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

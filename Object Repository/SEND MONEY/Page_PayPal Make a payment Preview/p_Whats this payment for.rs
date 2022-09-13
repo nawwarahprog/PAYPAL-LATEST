@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Whats this payment for</name>
+   <tag></tag>
+   <elementGuidId>22ba302e-b758-4b36-a4b0-c33590d8db2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/form/div/div[3]/div/label/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ppvx_text--hero._eas0vq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b763fd68-af67-47b1-8f64-605352958874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ppvx_text--hero _eas0vq</value>
+      <webElementGuid>9719a252-1803-4301-96be-86df4aa86cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What's this payment for?</value>
+      <webElementGuid>4d6182f5-274d-48b9-adef-c757324871de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper css-1e4troo&quot;]/div[1]/form[@class=&quot;css-16tc6h0&quot;]/div[@class=&quot;css-1dlk8iw&quot;]/div[3]/div[@class=&quot;_das02n&quot;]/label[@class=&quot;_127mh5u&quot;]/div[@class=&quot;_14hvvlx&quot;]/p[@class=&quot;ppvx_text--hero _eas0vq&quot;]</value>
+      <webElementGuid>2fc1bb32-a24b-4020-b8c7-25f5125e859e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/form/div/div[3]/div/label/div/p</value>
+      <webElementGuid>f7f86d19-bec4-4071-8fab-28bf509c091c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Center'])[1]/following::p[5]</value>
+      <webElementGuid>12e641e9-7408-47a0-b03d-025c2daaf421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal Buyer Protection'])[1]/preceding::p[1]</value>
+      <webElementGuid>8702a9c0-a8ce-4353-90b8-05c8c5790e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/p</value>
+      <webElementGuid>4222a8d2-c4a6-4e2e-924f-f32c5273f12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;What&quot; , &quot;'&quot; , &quot;s this payment for?&quot;) or . = concat(&quot;What&quot; , &quot;'&quot; , &quot;s this payment for?&quot;))]</value>
+      <webElementGuid>98a28e7d-d610-451a-9303-5ff7070120ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

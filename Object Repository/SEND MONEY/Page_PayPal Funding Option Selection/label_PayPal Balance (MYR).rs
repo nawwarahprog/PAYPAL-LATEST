@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PayPal Balance (MYR)</name>
+   <tag></tag>
+   <elementGuidId>c7a1390c-324a-4d19-b9d9-a43168a35635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-transfer-container']/div/div/div/div/form/fieldset/ul/span/li/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label._3hvm1s7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>540072ea-f7e6-45eb-9c77-333de0f62753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>2dad8a1e24df43f8b8ed78d4c615e8f0</value>
+      <webElementGuid>4cf394d8-7671-4416-bc4c-a940601b890f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3hvm1s7</value>
+      <webElementGuid>e17b87b2-681f-4ca3-a4a8-85c357a9003c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PayPal Balance (MYR)</value>
+      <webElementGuid>a878f972-d4eb-4633-be3f-8c3b8284cd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-transfer-container&quot;)/div[@class=&quot;react-p2p_wrapper css-1e4troo&quot;]/div[1]/div[@class=&quot;_128ph2z&quot;]/div[@class=&quot;_7zmfn6&quot;]/form[1]/fieldset[1]/ul[@class=&quot;_fr3xby&quot;]/span[1]/li[@class=&quot;_1eobpuq&quot;]/div[@class=&quot;_16sguw3&quot;]/div[@class=&quot;vx_radio&quot;]/label[@class=&quot;_3hvm1s7&quot;]</value>
+      <webElementGuid>74db4037-606f-429d-81bf-a6419ab7d1ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-transfer-container']/div/div/div/div/form/fieldset/ul/span/li/div/div/label</value>
+      <webElementGuid>0d7bc810-1cf3-4ec3-bb10-dea108ec6d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do you want to pay?'])[1]/following::label[1]</value>
+      <webElementGuid>94e77f33-7268-4a2c-ac04-c086b8f955bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Center'])[1]/following::label[1]</value>
+      <webElementGuid>ea326976-7772-480b-9f8e-ff54bdae4097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make this my preferred way to pay'])[1]/preceding::label[1]</value>
+      <webElementGuid>42a93054-5396-4056-9c08-5e4fcf3f1b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::label[2]</value>
+      <webElementGuid>00d8dae5-df91-4cd1-8251-ca71701446c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>5ef2b6f9-c493-453b-9ba0-a0bc2acddd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'PayPal Balance (MYR)' or . = 'PayPal Balance (MYR)')]</value>
+      <webElementGuid>7b4af361-b31c-4c6c-a473-528bbed0fa63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

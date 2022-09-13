@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>08426472-b31b-43cb-884e-7f7ee6233749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='quicklinks-fragment']/div/div/div[2]/div/div/div[3]/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.myapps-card-icon-container.highlight > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26ecbe63-b2d8-4707-b2e2-a8ae82fd7c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>myapps_card_icon</value>
+      <webElementGuid>fb24d176-b011-4565-9901-528f959be66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mep_quickLinks&quot;)/div[@class=&quot;quicklinks-container&quot;]/div[@id=&quot;quicklinks-fragment&quot;]/div[@id=&quot;quicklinks-fragment&quot;]/div[@class=&quot;quicklinks-container-desktop&quot;]/div[@class=&quot;myapps-container&quot;]/div[@class=&quot;myapps-apps&quot;]/div[1]/div[1]/div[@class=&quot;myapps-apps-row-1&quot;]/div[@class=&quot;myapps-card vx_col-xs-3 vx_col-lg-2&quot;]/a[@class=&quot;myapps-card-icon-container highlight&quot;]/span[1]</value>
+      <webElementGuid>e1377f37-e575-4e74-9d1f-71d69b3f02e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quicklinks-fragment']/div/div/div[2]/div/div/div[3]/div[3]/a/span</value>
+      <webElementGuid>fb285747-bd45-4d89-8376-7202ad29753d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>efbf0615-cb0f-481d-92ae-a0440ea4b5a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
